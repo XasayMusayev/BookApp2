@@ -1,0 +1,12 @@
+C:\Users\Xasay Musayev\Desktop\BookApp2.App\BookApp2.Core\bin\Debug\net6.0\BookApp2.Core.deps.json
+C:\Users\Xasay Musayev\Desktop\BookApp2.App\BookApp2.Core\bin\Debug\net6.0\BookApp2.Core.dll
+C:\Users\Xasay Musayev\Desktop\BookApp2.App\BookApp2.Core\bin\Debug\net6.0\BookApp2.Core.pdb
+C:\Users\Xasay Musayev\Desktop\BookApp2.App\BookApp2.Core\obj\Debug\net6.0\BookApp2.Core.csproj.AssemblyReference.cache
+C:\Users\Xasay Musayev\Desktop\BookApp2.App\BookApp2.Core\obj\Debug\net6.0\BookApp2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xasay Musayev\Desktop\BookApp2.App\BookApp2.Core\obj\Debug\net6.0\BookApp2.Core.AssemblyInfoInputs.cache
+C:\Users\Xasay Musayev\Desktop\BookApp2.App\BookApp2.Core\obj\Debug\net6.0\BookApp2.Core.AssemblyInfo.cs
+C:\Users\Xasay Musayev\Desktop\BookApp2.App\BookApp2.Core\obj\Debug\net6.0\BookApp2.Core.csproj.CoreCompileInputs.cache
+C:\Users\Xasay Musayev\Desktop\BookApp2.App\BookApp2.Core\obj\Debug\net6.0\BookApp2.Core.dll
+C:\Users\Xasay Musayev\Desktop\BookApp2.App\BookApp2.Core\obj\Debug\net6.0\refint\BookApp2.Core.dll
+C:\Users\Xasay Musayev\Desktop\BookApp2.App\BookApp2.Core\obj\Debug\net6.0\BookApp2.Core.pdb
+C:\Users\Xasay Musayev\Desktop\BookApp2.App\BookApp2.Core\obj\Debug\net6.0\ref\BookApp2.Core.dll
